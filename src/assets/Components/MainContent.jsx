@@ -204,3 +204,6 @@ if (nextPrayer) {
     </>
   )
 }
+$ git push
+Username for 'https://github.com':ESRAA-SOFTWARE
+Password for 'https://github.com/ESRAA-SOFTWARE':5793esraa
